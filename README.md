@@ -1,15 +1,32 @@
 # Laavanya
 
-# Self-Introduction and Career Goals
+# Hi, I'm Laavanya R 👋
 
-My name is Laavanya R, and I am currently pursuing my third year of B.Tech in Artificial Intelligence and Data Science at Saveetha Engineering College.
+I'm a third-year B.Tech student in Artificial Intelligence and Data Science at Saveetha Engineering College. I enjoy learning new technologies, building projects, and exploring how AI can solve real-world problems.
 
-My ambition is to become an AI/ML engineer and use technology to solve real-world problems. I am interested in artificial intelligence, machine learning, and data science because I enjoy learning how technology works and how it can make people's lives easier.
+## About Me
 
-I have basic knowledge of Python, SQL, Flask, and SQLite. I enjoy coding, solving problems, and learning new things. I have worked on projects such as LifeLine AI, an emergency assistance system, and a Campus Event Management System. These projects helped me improve my technical skills and understand how to develop applications.
+I'm passionate about Artificial Intelligence, Machine Learning, and Data Science. I like experimenting with new ideas and turning them into useful applications. I believe that learning by doing is one of the best ways to improve my skills.
 
-My short-term goal is to improve my programming and problem-solving skills, complete more projects, and prepare for campus placements over the next six months. After graduation, I hope to get a good job in the IT industry, gain practical experience, and build a successful career in AI and machine learning.
+## Technical Skills
 
-I consider myself a hardworking, curious, and responsible person. I enjoy working with others, sharing ideas, and learning from my mistakes. I would love to participate in hackathons and collaborative projects where I can learn new skills and contribute my ideas.
+- **Programming:** Python, SQL
+- **Web Development:** HTML, CSS, Flask
+- **Database:** SQLite
+- **Areas of Interest:** Machine Learning, Data Science, and AI
 
-My main goal is to keep improving myself and become a skilled professional who can create useful technology for society.
+## Projects
+
+- **LifeLine AI (2026):** An emergency assistance system designed to provide accessible support using AI and technology.
+- **Campus Event Management System:** A web application developed using Python, Flask, and SQLite to manage campus events and student registrations.
+
+## My Goals
+
+I'm currently focusing on improving my programming, problem-solving, and technical skills. My short-term goal is to build more projects, participate in hackathons, and prepare for campus placements.
+
+In the future, I hope to become an AI/ML engineer and work on meaningful projects that make a positive difference in people's lives.
+
+## Let's Connect!
+
+I'm always interested in learning new things, collaborating with others, and working on exciting AI/ML projects. I'm open to connecting with fellow students, developers, and anyone who enjoys building something new.
+
